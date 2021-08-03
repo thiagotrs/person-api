@@ -1,7 +1,7 @@
 <h1 align="center">Person API REST</h1>
 
 <p align="center">
-<img src="https://hermes.digitalinnovation.one/tracks/3af8b71f-cf57-40a6-92e7-e388f50ec8fd.png" height="150px" />
+<img src="./santander-bootcamp.png" height="150px" />
 <img src="https://raw.githubusercontent.com/spring-projects/spring-framework/main/src/docs/spring-framework.png" height="150px" />
 </p>
 
@@ -57,7 +57,7 @@ Thiago Rotondo Sampaio - [GitHub](https://github.com/thiagotrs) / [Linkedin](htt
 
 ## License
 
-This project use MIT license, see the file [LICENSE](.github/LICENSE.md) for more details
+This project use MIT license, see the file [LICENSE](./LICENSE.md) for more details
 
 ---
 
